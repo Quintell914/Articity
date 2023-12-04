@@ -1,0 +1,7 @@
+body{background-color: #00E3CC;}
+h1{font-family: Palatino; font-size: 40px; color: #FFFFFF;}
+p{font-family: Didot; font-size: 14px; color: #F6F6F6;}
+a{font-family: copperplate; font-size: 14px; color: #FA1BC6;}
+a:hover{color: #130FFF;}
+li a{display: block; font-family: copperplate; color: black; text-align: center; margin: 15px -15px; padding: 0px 30px; text-decoration: none;}
+ul{list-style-type: circle; padding: 5px 80px ;overflow: hidden; background-color: #FFEE8C;}
